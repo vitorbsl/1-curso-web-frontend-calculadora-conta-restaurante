@@ -198,6 +198,18 @@ Ao final da entrega deste desafio, todos os participantes que apresentarem sua s
 3. **Apresentação da Solução**: Durante a revisão final, você terá a chance de **apresentar** sua solução, explicando como resolveu o desafio e quais foram os passos e decisões que tomou.
 4. **Participação no Sorteio**: Todos que apresentarem suas soluções irão automaticamente participar do **sorteio de um livro** especialmente selecionado para ajudá-lo a continuar aprimorando suas habilidades em programação!
 
+
+#### Links
+[Constantes](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/const)
+
+[Sintaxe e tipos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
+
+[Diferenças de var const e let](https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript)
+
+[Convertendo String para Inteiro](https://www.alura.com.br/artigos/convertendo-string-para-numero-em-javascript)
+
+[Convertendo String para Inteiro](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
+
 ### Dica Extra:
 Quanto mais clara e bem documentada for sua solução, mais chances você tem de impressionar os revisores e aumentar suas chances de aprendizado (e, claro, de ganhar o sorteio!).
 
